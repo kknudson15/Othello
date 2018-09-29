@@ -23,3 +23,9 @@ copy import
 
 Potential Applications: 
 Game playing programs
+
+
+Need to do:
+allow player choice
+alter Static evaluation functions
+performance improvements
